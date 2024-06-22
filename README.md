@@ -17,7 +17,7 @@ This application detects fake news using machine learning models. Built with Str
 - **Decision Tree**
 - **Random Forest**
 - **Gradient Boosting**
-- 
+  
 ## App (Screenshots)
 
 ### Home Page
