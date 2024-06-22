@@ -2,7 +2,7 @@
 
 This application detects fake news using machine learning models. Built with Streamlit, it allows users to input news article text and get predictions on whether the news is fake or not.
 
-## Technologies Used
+## Technologies Used:
 
 - **Python**
 - **Streamlit**
@@ -11,15 +11,14 @@ This application detects fake news using machine learning models. Built with Str
 - **Scikit-learn**
 - **Seaborn**
 - **Matplotlib**
-
-## Use Cases
-
-- **Verify news authenticity**: Quickly check if a news article is fake.
-- **Educational purposes**: Demonstrate machine learning applications in real-world scenarios.
-- **Research tool**: Aid in research on fake news detection.
-- **Media industry**: Initial screening tool for news articles.
-
-## Demo
+  
+## Machine Learning Models used:
+- **Logistic Regression**
+- **Decision Tree**
+- **Random Forest**
+- **Gradient Boosting**
+- 
+## App (Screenshots)
 
 ### Home Page
 ![Home](screenshots/home.png)
@@ -30,6 +29,3 @@ This application detects fake news using machine learning models. Built with Str
 ### Demo 2
 ![Demo 2](screenshots/demo2.png)
 
-## License
-
-This project is licensed under the MIT License.
