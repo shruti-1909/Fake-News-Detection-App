@@ -20,12 +20,9 @@ This application detects fake news using machine learning models. Built with Str
   
 ## App (Screenshots)
 
-### 1
 ![Home](screenshots/home.png)
 
-### 2
 ![Demo 1](screenshots/demo1.png)
 
-### 3
 ![Demo 2](screenshots/demo2.png)
 
