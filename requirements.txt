@@ -1,6 +1,5 @@
 scikit-learn
 pandas
 streamlit
-re
 numpy
 scipy
